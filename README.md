@@ -1,10 +1,10 @@
 <h1 align="left">𝙷𝚒, 𝙸'𝚖 𝙷𝚞𝚐𝚘 ✨</h1>
 
 <ul align="left">
-  <li>🔥 Solo Technical Founder of Refueler: a structured, data-backed system built to help people follow through even when motivation fades</li>
+  <li>🔥 Solo Technical Founder of Refueler: a structured, data-backed system helping people follow through when motivation fades</li>
   <li>🧠 Big Data @ UC Berkeley: engineered end-to-end ML pipelines and predictive forecasting models</li>
   <li>💻 Shipping real-world products across iOS (SwiftUI), full-stack (Next.js/Supabase), and applied AI</li>
-  <li>🚀 You said do it later. I say why wait? Execution beats ideas. I pushed through 1k+ errors to ship my MVP because I refuse to quit.</li>
+  <li>🚀 You say do it later.&nbsp;&nbsp;&nbsp;I say why wait?&nbsp;&nbsp;&nbsp;Execution beats ideas.&nbsp;&nbsp;&nbsp;I encountered 1k+ errors to ship my MVP.&nbsp;&nbsp;&nbsp;I refuse to quit.</li>
 </ul>
 
 ## 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔 💻
