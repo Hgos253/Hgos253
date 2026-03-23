@@ -1,13 +1,13 @@
-<h1 align="left">Hi, I'm Hugo 🔥</h1>
+<h1 align="left">𝙷𝚒, 𝙸'𝚖 𝙷𝚞𝚐𝚘 ✨</h1>
 
-<p align="left">
-- 🔥 Solo Technical Founder of Refueler: a structured, data-backed AI execution engine built to help people follow through even when motivation fades
-- 🧠 Big Data @ UC Berkeley: engineered an end-to-end ML pipelines and predictive forecasting models
-- 💻 Shipping real-world products across iOS (SwiftUI), full-stack (Next.js/Supabase), and applied AI
-- 🚀 You said do it later. I say why wait? Execution beats ideas. I pushed through 1k+ errors to ship my MVP because I refuse to quit.
-</p>
+<ul align="left">
+  <li>🔥 Solo Technical Founder of Refueler: a structured, data-backed system built to help people follow through even when motivation fades</li>
+  <li>🧠 Big Data @ UC Berkeley: engineered end-to-end ML pipelines and predictive forecasting models</li>
+  <li>💻 Shipping real-world products across iOS (SwiftUI), full-stack (Next.js/Supabase), and applied AI</li>
+  <li>🚀 You said do it later. I say why wait? Execution beats ideas. I pushed through 1k+ errors to ship my MVP because I refuse to quit.</li>
+</ul>
 
-## Tech Stack 💻</br>
+## 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔 💻
 
 <p>
   <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black" />
@@ -22,18 +22,13 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-## What's Up (Tech) 👨‍💻</br>
+## 𝚆𝚑𝚊𝚝’𝚜 𝚄𝚙 (𝚃𝚎𝚌𝚑) 👨‍💻
 
-- 🤖 AI / Machine Learning builder
-- 📊 Data science, product systems, and behavior-driven apps
-- 🚀 Interested in startups, real-world product design, and systems that drive action
+- 📊 Data science, product systems, and behavior-driven apps  
+- 🤖 AI / Machine Learning builder creating systems that turn data into real user outcomes  
+- 🚀 Interested in startups, real-world product design, and systems that drive action  
 
-## Startup</br>
+## 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 🤝
 
-- 📍 Focused on products that solve real behavioral problems
-- 🧩 Interested in AI, consumer apps, and startup execution
-- 🏗️ Turning intention into action through product design
-
-## Connect</br>
-- 🤝 I enjoy connecting with others and learning from different perspectives
-- 💼 LinkedIn: https://www.linkedin.com/in/hugo-shek-a2b45031a/
+- 🤝 I enjoy connecting with others and learning from different perspectives  
+- 💼 LinkedIn: https://www.linkedin.com/in/hugo-shek-a2b45031a/  
