@@ -1,29 +1,18 @@
-<h1 align="center">Hi, I'm Hugo S 🔥</h1>
+<h1 align="left">Hi, I'm Hugo S 🔥</h1>
 
-<p align="center">
-  Founder building <b>Refueler</b> — AI for focus, discipline, and execution.
+<p align="left">
+  About Me:
+  🌀 → 🎯 I help driven students and creators consistently execute their long-term goals without falling into the exhausting cycle of burnout and procrastination.
+  ✅ I’m passionate about data science, machine learning, networking, and building real-world tech projects.
 </p>
 
-## Tech</br>
+## What's Up (Tech) 👨‍💻</br>
 
 - 🤖 AI / Machine Learning builder
 - 📊 Data science, product systems, and behavior-driven apps
 - 🔥 Building <b>Refueler</b> — helping people stop procrastinating and start executing
 - 📱 Working across SwiftUI, Supabase, Next.js, and applied AI workflows
 - 🚀 Interested in startups, real-world product design, and systems that drive action
-
-## Design</br>
-
-- 🎨 I care about products that feel sharp, motivating, and high-conviction
-- 🧠 I like building systems where design, psychology, and technology work together
-- 🛠️ Focused on execution over ideas alone
-
-## Currently</br>
-
-- 🔥 Building <b>Refueler</b>
-- 📲 Creating AI-powered productivity and behavior change systems
-- 📈 Exploring machine learning, startup building, and user growth
-- 🧪 Working on projects across AI, data science, and product engineering
 
 ## Tech Stack 💻</br>
 
@@ -47,15 +36,5 @@
 - 🧩 Interested in AI, consumer apps, and startup execution
 - 🏗️ Turning intention into action through product design
 
-## GitHub Stats 📊</br>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" height="180em" />
-</p>
-
-## Connectbr/></br>
-
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR-LINK)
-- 🌐 Website: [Your Site](https://yourwebsite.com)
-- 📫 Email: your@email.com
+## Connect</br>
+- 💼 LinkedIn: https://www.linkedin.com/in/hugo-shek-a2b45031a/
