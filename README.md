@@ -30,5 +30,5 @@
 
 ## 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 🤝
 
-- 🤝 I enjoy connecting with others and learning from different perspectives  
+- 🧑‍🤝‍🧑 I enjoy connecting with others and learning from different perspectives  
 - 💼 LinkedIn: https://www.linkedin.com/in/hugo-shek-a2b45031a/  
