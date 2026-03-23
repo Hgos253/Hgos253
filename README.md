@@ -4,7 +4,7 @@
   Founder building <b>Refueler</b> — AI for focus, discipline, and execution.
 </p>
 
-## Techbr/></br>
+## Tech</br>
 
 - 🤖 AI / Machine Learning builder
 - 📊 Data science, product systems, and behavior-driven apps
@@ -12,13 +12,13 @@
 - 📱 Working across SwiftUI, Supabase, Next.js, and applied AI workflows
 - 🚀 Interested in startups, real-world product design, and systems that drive action
 
-## Designbr/></br>
+## Design</br>
 
 - 🎨 I care about products that feel sharp, motivating, and high-conviction
 - 🧠 I like building systems where design, psychology, and technology work together
 - 🛠️ Focused on execution over ideas alone
 
-## Currentlybr/></br>
+## Currently</br>
 
 - 🔥 Building <b>Refueler</b>
 - 📲 Creating AI-powered productivity and behavior change systems
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-## Startupbr/></br>
+## Startup</br>
 
 - ⚡ Building with urgency
 - 📍 Focused on products that solve real behavioral problems
