@@ -1,18 +1,11 @@
-<h1 align="left">Hi, I'm Hugo S 🔥</h1>
+<h1 align="left">Hi, I'm Hugo 🔥</h1>
 
 <p align="left">
-  About Me:
-  🌀 → 🎯 I help driven students and creators consistently execute their long-term goals without falling into the exhausting cycle of burnout and procrastination.
-  ✅ I’m passionate about data science, machine learning, networking, and building real-world tech projects.
+- 🔥 Solo Technical Founder of Refueler: a structured, data-backed AI execution engine built to help people follow through even when motivation fades
+- 🧠 Big Data @ UC Berkeley: engineered an end-to-end ML pipelines and predictive forecasting models
+- 💻 Shipping real-world products across iOS (SwiftUI), full-stack (Next.js/Supabase), and applied AI
+- 🚀 You said do it later. I say why wait? Execution beats ideas. I pushed through 1k+ errors to ship my MVP because I refuse to quit.
 </p>
-
-## What's Up (Tech) 👨‍💻</br>
-
-- 🤖 AI / Machine Learning builder
-- 📊 Data science, product systems, and behavior-driven apps
-- 🔥 Building <b>Refueler</b> — helping people stop procrastinating and start executing
-- 📱 Working across SwiftUI, Supabase, Next.js, and applied AI workflows
-- 🚀 Interested in startups, real-world product design, and systems that drive action
 
 ## Tech Stack 💻</br>
 
@@ -29,12 +22,18 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+## What's Up (Tech) 👨‍💻</br>
+
+- 🤖 AI / Machine Learning builder
+- 📊 Data science, product systems, and behavior-driven apps
+- 🚀 Interested in startups, real-world product design, and systems that drive action
+
 ## Startup</br>
 
-- ⚡ Building with urgency
 - 📍 Focused on products that solve real behavioral problems
 - 🧩 Interested in AI, consumer apps, and startup execution
 - 🏗️ Turning intention into action through product design
 
 ## Connect</br>
+- 🤝 I enjoy connecting with others and learning from different perspectives
 - 💼 LinkedIn: https://www.linkedin.com/in/hugo-shek-a2b45031a/
